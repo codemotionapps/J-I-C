@@ -113,3 +113,5 @@ var jic = {
 
         }
 };
+
+module.exports = jic;
